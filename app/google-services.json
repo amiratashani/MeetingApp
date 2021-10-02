@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "225313676444",
+    "firebase_url": "https://meeting-app-yt.firebaseio.com",
+    "project_id": "meeting-app-yt",
+    "storage_bucket": "meeting-app-yt.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:225313676444:android:0f809a8a23e82495236159",
+        "android_client_info": {
+          "package_name": "com.example.meetingappyt"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "225313676444-pm280qqfrct43io1o0t77am7kl37u68v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAnoLHGrtd5cCiIHfWsPOb_1WDgFCcnoKQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "225313676444-pm280qqfrct43io1o0t77am7kl37u68v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
